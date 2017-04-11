@@ -10,3 +10,9 @@ git clone https://github.com/StephenGrider/WebpackProject.git
 cd WebpackProject
 npm install
 ```
+
+install surge 
+npm install --global surge
+
+deploy on surge 
+surge -p dist
